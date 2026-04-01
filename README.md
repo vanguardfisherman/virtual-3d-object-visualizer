@@ -1,6 +1,4 @@
-¡Perfecto! Aquí tienes un **README listo para GitHub**. Cópialo tal cual en `README.md`. Abajo también te dejo un `requirements.txt` y un `.gitignore` sugeridos.
 
----
 
 # Visualizador 3D · Streamlit + Plotly + Trimesh
 
